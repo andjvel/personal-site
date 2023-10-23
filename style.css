@@ -1,0 +1,85 @@
+.me-img{
+  width: 200px;
+  border-radius: 50%;
+}
+
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: "Monotype Corsiva" !important;
+  font-size: 70px;
+}
+
+h2{
+  font-size: 50px;
+  font-family: Verdana;
+  font-weight: bold;
+  color:indigo;
+}
+
+h3{
+  font-size: 30px;
+  font-family: Verdana;
+}
+
+.hero{
+  /* "Berlin Sans FB"; */
+  display: block;
+  padding-top: 15em;
+  color: pink;
+}
+
+.hero-section-1{
+  background-image: url('./assets/images/background3.jpg');
+  height: 100vh;
+  background-size: cover;
+}
+.hero-section-2{
+
+}
+p{
+  width: 70%;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  font: 18px "Arial";
+  /* color:; */
+  margin-top: 20px;
+}
+
+button{
+  /* background-image:  url('./assets/images/background3.jpg'); */
+  background-color: indigo;
+  border-color: none;
+  color: pink;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+/* .button:hover{
+  background-color: blueviolet;
+  color: blueviolet;
+  border-color: blueviolet;
+} */
+
+footer{
+  background-image: url('./assets/images/background3.jpg');
+  background-size: cover;
+
+  color: pink;
+}
+
+.project{
+  border: solid 5px indigo;
+}
+
+#projects{
+}
